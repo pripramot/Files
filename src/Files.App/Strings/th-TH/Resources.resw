@@ -301,7 +301,7 @@
     <value>ระบุชื่อใหม่ของรายการ</value>
   </data>
   <data name="CreateNewItemTitle" xml:space="preserve">
-    <value>สร้าง{0}ใหม่</value>
+    <value>สร้าง {0} ใหม่</value>
   </data>
   <data name="LightTheme" xml:space="preserve">
     <value>สว่าง</value>
@@ -1275,10 +1275,10 @@
     <value>คัดลอก</value>
   </data>
   <data name="CopyItemsDialogTitle" xml:space="preserve">
-    <value>คัดลอก{0, plural, one {รายการ} other {รายการ}}</value>
+    <value>คัดลอก {0, plural, one {รายการ} other {รายการ}}</value>
   </data>
   <data name="DeleteItemsDialogTitle" xml:space="preserve">
-    <value>ลบ{0, plural, one {รายการ} other {รายการ}}</value>
+    <value>ลบ {0, plural, one {รายการ} other {รายการ}}</value>
   </data>
   <data name="MoveItemsDialogPrimaryButtonText" xml:space="preserve">
     <value>ย้าย</value>
@@ -1287,7 +1287,7 @@
     <value>{0, plural, one {หนึ่งรายการจะถูกย้าย} other {# รายการจะถูกย้าย}}</value>
   </data>
   <data name="MoveItemsDialogTitle" xml:space="preserve">
-    <value>ย้าย{0, plural, one {รายการ} other {รายการ}}</value>
+    <value>ย้าย {0, plural, one {รายการ} other {รายการ}}</value>
   </data>
   <data name="DeleteItemsDialogSubtitle" xml:space="preserve">
     <value>{0, plural, one {หนึ่งรายการจะถูกลบ} other {# รายการจะถูกลบ}}</value>
@@ -1299,7 +1299,7 @@
     <value>{0, plural, one {มีชื่อไฟล์ที่ขัดแย้งหนึ่งรายการ} other {มีชื่อไฟล์ที่ขัดแย้ง # รายการ}}</value>
   </data>
   <data name="ConflictingItemsDialogSubtitleConflictsNonConflicts" xml:space="preserve">
-    <value>{0, plural, one {มีชื่อไฟล์ที่ขัดแย้งหนึ่งรายการ} other {มีชื่อไฟล์ที่ขัดแย้ง # รายการ}} และ{1, plural, one {รายการขาออกหนึ่งรายการ} other {รายการขาออก # รายการ}}</value>
+    <value>{0, plural, one {มีชื่อไฟล์ที่ขัดแย้งหนึ่งรายการ} other {มีชื่อไฟล์ที่ขัดแย้ง # รายการ}} และ {1, plural, one {รายการขาออกหนึ่งรายการ} other {รายการขาออก # รายการ}}</value>
   </data>
   <data name="ConflictingItemsDialogTitle" xml:space="preserve">
     <value>{0, plural, one {ชื่อไฟล์} other {ชื่อไฟล์}}ที่ขัดแย้ง</value>
